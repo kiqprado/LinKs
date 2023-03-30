@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> LinKs </h1>
 
 <p align="center">
 Aplicação construída junto a RocketSeat, com o objetivo de unificar seus Links Sociais, facilitando o acesso a todos eles. <br/>
