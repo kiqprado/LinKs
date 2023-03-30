@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Divulgue de maneira prática seus veículos de comunicação.
 
-- [Acesse o projeto finalizado, online](https://kiqprado.github.io/LinkTree/)
+- [Acesse o projeto finalizado, online](https://kiqprado.github.io/LinKs/)
 
 ## :memo: Licença
 
