@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> LinKs </h1>
 
 <p align="center">
 Aplicação construída junto a RocketSeat, com o objetivo de unificar seus Links Sociais, facilitando o acesso a todos eles. <br/>
@@ -40,10 +40,10 @@ Divulgue de maneira prática seus veículos de comunicação.
 
 - [Acesse o projeto finalizado, online](https://kiqprado.github.io/LinkTree/)
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kaiqueprado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kiqprado/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
+@kiqprado
